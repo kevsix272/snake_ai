@@ -268,7 +268,7 @@ class SnakeDQL():
 #Used for the runing training/testing. 
 if __name__ == '__main__':
     snake_dql = SnakeDQL()
-    snake_dql.train(5000)
-    snake_dql.test(10)
+    #snake_dql.train(5000)
+    snake_dql.test(1000)
 
     
