@@ -160,5 +160,5 @@ class SnakeDQL():
 
 if __name__ == '__main__':
     snake_dql = SnakeDQL()
-    snake_dql.train(4000)
-    snake_dql.test(10)
+    #snake_dql.train(4000)
+    snake_dql.test(1000)
