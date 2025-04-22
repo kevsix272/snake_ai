@@ -27,7 +27,7 @@ DARKGREEN = (2, 49, 23)
 LICORICE = (37, 17, 1)
 
 BLOCK_SIZE = 20
-SPEED = 50
+SPEED = 20
 
 class SnakeEnv():
     def __init__(self, w=640, h=480):
